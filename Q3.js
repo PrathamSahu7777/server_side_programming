@@ -20,3 +20,4 @@ return [...quickSort(left), pivot, ...quickSort(right)];
 const arr= [5, 3, 7, 2, 9, 1, 6, 4, 8];
 const sortedArray = quickSort(arr);
 console.log("Sorted array:", sortedArray);
+//output: Sorted array: [1, 2, 3, 4, 5,6, 7, 8, 9]
