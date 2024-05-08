@@ -19,3 +19,4 @@ const indexes = findAllIndexesOfWord(sentence,
 word);
 console.log(`Indexes of "${word}" in the sentence: 
 ${indexes}`);
+//output:Indexes of "Lorem" in the sentence: 0,74
